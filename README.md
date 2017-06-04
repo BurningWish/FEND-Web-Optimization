@@ -5,6 +5,8 @@ This is project 5 of Front End Web Developer Nanodegree Programme. Two website p
 1. Download the repository to your desktop.
 2. Unzip the folder, and open `dist/index.html` and `dist/views/pizza.html` to see the two optimized pages.
 
+## Optimizations done in this project
+
 ### Optimization to `index.html` to reach 90 Google PSI scores.
 1. Move all the `<script>` tag to the very bottom within `<body>` element.
 2. `defer` the `analytics.js` script, so that this javascript will run after initial render finishs.
